@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "74110615533",
+    "firebase_url": "https://apt-sky-153410.firebaseio.com",
+    "project_id": "apt-sky-153410",
+    "storage_bucket": "apt-sky-153410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74110615533:android:77ec509325dfbba9",
+        "android_client_info": {
+          "package_name": "mobile.trimagnus.trackingmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74110615533-k86ltpptit5dtbj5oq0g7g98tpbpucm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mobile.trimagnus.trackingmobile",
+            "certificate_hash": "102B199BBEFA5213127A6097829E00FD24D69108"
+          }
+        },
+        {
+          "client_id": "74110615533-ivrq4nvc6mtm06iubc2rl6idak3jrusj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcbPPvjljPdKTd6hhKNifLdcpzQlo6qZA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74110615533-ivrq4nvc6mtm06iubc2rl6idak3jrusj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
